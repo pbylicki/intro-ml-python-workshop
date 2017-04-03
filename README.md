@@ -48,3 +48,5 @@ jupyter notebook
 ```
 
 Jupyter should open in browser window, now you can start to create, edit and execute your notebooks and other files.
+
+When working with a notebook, you can create cells that contain either executable code or Markdown text. Use _Shift + Enter_ to execute cell.
