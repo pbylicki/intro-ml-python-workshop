@@ -15,7 +15,9 @@ pip install pandas
 
 To install SciPy and Scikit-learn packages download .whl files matching your Python version from http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-For Python 3.6 download _scipy‑0.19.0‑cp36‑cp36m‑win32.whl_ and _scikit_learn‑0.18.1‑cp36‑cp36m‑win32.whl_
+For Python 3.6 download _scipy‑0.19.0‑cp36‑cp36m‑win32.whl_ from http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+and _scikit_learn‑0.18.1‑cp36‑cp36m‑win32.whl_ from http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
 
 Open terminal in directory where both files are located and install SciPy first:
 ```
